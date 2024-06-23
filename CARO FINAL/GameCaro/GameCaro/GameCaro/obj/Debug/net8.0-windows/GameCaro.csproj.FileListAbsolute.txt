@@ -1,0 +1,51 @@
+\\Mac\Home\Documents\Năm 2\HK2\Lập trình mạng căn bản\Đồ án\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.exe
+\\Mac\Home\Documents\Năm 2\HK2\Lập trình mạng căn bản\Đồ án\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.deps.json
+\\Mac\Home\Documents\Năm 2\HK2\Lập trình mạng căn bản\Đồ án\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.runtimeconfig.json
+\\Mac\Home\Documents\Năm 2\HK2\Lập trình mạng căn bản\Đồ án\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.dll
+\\Mac\Home\Documents\Năm 2\HK2\Lập trình mạng căn bản\Đồ án\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.pdb
+\\Mac\Home\Documents\Năm 2\HK2\Lập trình mạng căn bản\Đồ án\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.Form1.resources
+\\Mac\Home\Documents\Năm 2\HK2\Lập trình mạng căn bản\Đồ án\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Năm 2\HK2\Lập trình mạng căn bản\Đồ án\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Năm 2\HK2\Lập trình mạng căn bản\Đồ án\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Năm 2\HK2\Lập trình mạng căn bản\Đồ án\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.AssemblyInfo.cs
+\\Mac\Home\Documents\Năm 2\HK2\Lập trình mạng căn bản\Đồ án\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Năm 2\HK2\Lập trình mạng căn bản\Đồ án\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.dll
+\\Mac\Home\Documents\Năm 2\HK2\Lập trình mạng căn bản\Đồ án\GameCaro\GameCaro\obj\Debug\net8.0-windows\refint\GameCaro.dll
+\\Mac\Home\Documents\Năm 2\HK2\Lập trình mạng căn bản\Đồ án\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.pdb
+\\Mac\Home\Documents\Năm 2\HK2\Lập trình mạng căn bản\Đồ án\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.genruntimeconfig.cache
+\\Mac\Home\Documents\Năm 2\HK2\Lập trình mạng căn bản\Đồ án\GameCaro\GameCaro\obj\Debug\net8.0-windows\ref\GameCaro.dll
+\\Mac\Home\Documents\Năm 2\HK2\Lập trình mạng căn bản\Đồ án\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.Properties.Resources.resources
+D:\DOWNLOAD\GameCaro\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.exe
+D:\DOWNLOAD\GameCaro\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.deps.json
+D:\DOWNLOAD\GameCaro\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.runtimeconfig.json
+D:\DOWNLOAD\GameCaro\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.dll
+D:\DOWNLOAD\GameCaro\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.pdb
+D:\DOWNLOAD\GameCaro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.Form1.resources
+D:\DOWNLOAD\GameCaro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.Properties.Resources.resources
+D:\DOWNLOAD\GameCaro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.csproj.GenerateResource.cache
+D:\DOWNLOAD\GameCaro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOWNLOAD\GameCaro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.AssemblyInfoInputs.cache
+D:\DOWNLOAD\GameCaro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.AssemblyInfo.cs
+D:\DOWNLOAD\GameCaro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.csproj.CoreCompileInputs.cache
+D:\DOWNLOAD\GameCaro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.dll
+D:\DOWNLOAD\GameCaro\GameCaro\GameCaro\obj\Debug\net8.0-windows\refint\GameCaro.dll
+D:\DOWNLOAD\GameCaro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.pdb
+D:\DOWNLOAD\GameCaro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.genruntimeconfig.cache
+D:\DOWNLOAD\GameCaro\GameCaro\GameCaro\obj\Debug\net8.0-windows\ref\GameCaro.dll
+D:\LTMCB\CARO FINAL\GameCaro\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.exe
+D:\LTMCB\CARO FINAL\GameCaro\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.deps.json
+D:\LTMCB\CARO FINAL\GameCaro\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.runtimeconfig.json
+D:\LTMCB\CARO FINAL\GameCaro\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.dll
+D:\LTMCB\CARO FINAL\GameCaro\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.pdb
+D:\LTMCB\CARO FINAL\GameCaro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.Form1.resources
+D:\LTMCB\CARO FINAL\GameCaro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.Properties.Resources.resources
+D:\LTMCB\CARO FINAL\GameCaro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.csproj.GenerateResource.cache
+D:\LTMCB\CARO FINAL\GameCaro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTMCB\CARO FINAL\GameCaro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.AssemblyInfoInputs.cache
+D:\LTMCB\CARO FINAL\GameCaro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.AssemblyInfo.cs
+D:\LTMCB\CARO FINAL\GameCaro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.csproj.CoreCompileInputs.cache
+D:\LTMCB\CARO FINAL\GameCaro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.dll
+D:\LTMCB\CARO FINAL\GameCaro\GameCaro\GameCaro\obj\Debug\net8.0-windows\refint\GameCaro.dll
+D:\LTMCB\CARO FINAL\GameCaro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.pdb
+D:\LTMCB\CARO FINAL\GameCaro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.genruntimeconfig.cache
+D:\LTMCB\CARO FINAL\GameCaro\GameCaro\GameCaro\obj\Debug\net8.0-windows\ref\GameCaro.dll
